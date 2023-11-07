@@ -36,3 +36,6 @@ atau
 ```bash
 scrapy crawl motor -O motor.csv
 ```
+```bash
+python -m venv Scrapping
+```
