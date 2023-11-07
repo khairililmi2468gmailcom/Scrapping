@@ -33,7 +33,6 @@ scrapy crawl motor -O motor.csv
 <br>
 atau
 <br>
-Json
 ```bash
 scrapy crawl motor -O motor.csv
 ```
