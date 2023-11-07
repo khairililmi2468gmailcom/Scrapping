@@ -4,11 +4,11 @@ Code Scrapping Data From WEB
 
 <br>1. Buat Environment baru
 ```bash
-python3 -m venv Scrapping
+python3 -m venv ScapScrol
 ```
 <br>atau 
 ```bash
-python -m venv Scrapping
+python -m venv ScapScrol
 ```
 <br>2. Aktifkan Environment
 ```bash
