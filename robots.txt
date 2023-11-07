@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /api/
+Disallow: /post/
+Disallow: /edit/
+Disallow: /account/
+Disallow: /chat/
+Disallow: /profile/
+Disallow: /payments/
+Disallow: /nf/
+Disallow: /items$
+#Base Filters
+Disallow: */*?*filter=*price_
+Disallow: */*?*filter=*condition_
+#Cars Filters
+Disallow: */*?*filter=*cartype_
+Disallow: */*?*filter=*mileage_
+Disallow: */*?*filter=*transmission_
+Disallow: */*?*filter=*year_
+
+# Generated on 2023-07-25T10:40:38.725Z
