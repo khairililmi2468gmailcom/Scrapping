@@ -32,9 +32,7 @@ untuk csv
 ```bash
 scrapy crawl motor -O motor.csv
 ```
-<br>
-atau
-<br>
+<br>atau<br>
 ```bash
 scrapy crawl motor -O motor.csv
 ```
