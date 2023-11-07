@@ -1,10 +1,7 @@
 # Scrapping
 Code Scrapping Data From WEB
 <br>Cara menjalankannya
-<br>
-```bash
-cd spider
-```
+
 <br>1. Buat Environment baru
 ```bash
 python3 -m venv Scrapping
@@ -24,12 +21,19 @@ source Scrapping/bin/activate
 pip install Scrapy
 ```
 <br>
+
 4. Buat Project Scrapping baru
 "
 scrapy startproject OLXMotor
 "
 <br>
-5. Jalankan Scrapping atau spider 
+5. Masuk directory
+   <br>
+```bash
+cd spider
+```
+<br>
+6. Jalankan Scrapping atau spider 
 untuk csv
 "
 scrapy crawl motor -O motor.csv
