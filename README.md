@@ -25,7 +25,7 @@ scrapy startproject OLXMotor
 <br>5. Masuk directory
 <br>
 ```bash
-cd spider
+cd spiders
 ```
 <br>6. Jalankan Scrapping atau spider 
 untuk csv
