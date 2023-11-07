@@ -19,9 +19,9 @@ source Scrapping/bin/activate
 pip install Scrapy
 ```
 <br>4. Buat Project Scrapping baru
-"
+```bash
 scrapy startproject OLXMotor
-"
+```
 <br>5. Masuk directory
 <br>
 ```bash
@@ -29,12 +29,12 @@ cd spider
 ```
 <br>6. Jalankan Scrapping atau spider 
 untuk csv
-"
+```bash
 scrapy crawl motor -O motor.csv
-"
+```
 <br>
 atau
 <br>
-"
+```bash
 scrapy crawl motor -O motor.csv
-"
+```
